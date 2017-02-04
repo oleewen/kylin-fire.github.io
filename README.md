@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 博客主页
 
 You can use the [editor on GitHub](https://github.com/oleone/oleone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
