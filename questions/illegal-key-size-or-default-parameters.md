@@ -1,7 +1,7 @@
 # Java加密抛出java.security.InvalidKeyException: Illegal key size or default parameters解决方法
 
 ## 来自stackoverflow的帖子
-http://stackoverflow.com/questions/6481627/java-security-illegal-key-size-or-default-parameters
+[http://stackoverflow.com/questions/6481627/java-security-illegal-key-size-or-default-parameters](http://stackoverflow.com/questions/6481627/java-security-illegal-key-size-or-default-parameters)
 
 ## 原理
 
