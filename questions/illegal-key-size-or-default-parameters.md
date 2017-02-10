@@ -14,15 +14,19 @@ http://stackoverflow.com/questions/6481627/java-security-illegal-key-size-or-def
 
 ## 解决办法
 
-1. 下载以下各版本的非限制权限文件:
+### 1.下载非限制权限文件
 
-[Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 6 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce-6-download-429243.html)
+下载以下各版本的非限制权限文件:
 
-[Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 7 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html)
+    [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 6 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce-6-download-429243.html)
 
-[Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html)
+    [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 7 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html)
 
-2. 解压下载zip文件，替换到${JAVA_HOME}/jre/lib/security/
+    [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8 Download](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html)
+
+### 2.替换jre下的安全文件
+
+解压下载zip文件，替换到${JAVA_HOME}/jre/lib/security/
     
     Mac电脑：JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/
     
