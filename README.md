@@ -9,6 +9,7 @@
 - [JVM架构](summary/jvm_arch.md)
 - [JVM运行时](summary/jvm_runtime.md)
 - [btrace](summary/btrace.md)
+- [常用算法](summary/crypto.md)
 
 # 2017.2
 - [Java加密抛出java.security.InvalidKeyException: Illegal key size or default parameters解决方法](questions/illegal-key-size-or-default-parameters.md)
